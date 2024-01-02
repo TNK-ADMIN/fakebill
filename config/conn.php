@@ -7,29 +7,29 @@ function cache() {
  return '?'.bin2hex(random_bytes(3));   
 }
 $changepages = basename($_SERVER['REQUEST_URI'], '.php');
-$title = " Nguyễn Lê Trí Lộc - Trang website fake bill chuyển khoản miễn phí";
-$description = "Nguyễn Lê Trí Lộc - Trang chủ fake bill Vietinbank, Mbbank, Momo, vietcombank, v.v.v";
-$keyword = "Nguyễn Lê Trí Lộc, website fake bill";
-$iconshortcut = "https://i.pinimg.com/564x/e3/09/8b/e3098b4d664deaf2878cc17fe8796b42.jpg";
-$imgreviews = "https://i.pinimg.com/564x/e3/09/8b/e3098b4d664deaf2878cc17fe8796b42.jpg";
+$title = " KTech - Trang website fake bill chuyển khoản miễn phí";
+$description = "KTech - Trang chủ fake bill Vietinbank, Mbbank, Momo, vietcombank, v.v.v";
+$keyword = "KTech, website fake bill";
+$iconshortcut = "https://imgur.com/7LigPVq.png";
+$imgreviews = "https://imgur.com/7LigPVq.png";
 if ($changepages == 'fake-bill-vietinbank') {
     $title = "Fakebill - Ngân Hàng VietinBank";
-    $description = "Nguyễn Lê Trí Lộc - Trang fake bill VietinBank chuyển khoản miễn phí";
+    $description = "KTech - Trang fake bill VietinBank chuyển khoản miễn phí";
     $imgreviews = "https://play-lh.googleusercontent.com/F8D0AbyMmiuwsTZYLaPsu_o40XGfQHgvRnq25lVSWupgHPpH3-TQ9soMrWwDJco3siI";
     $iconshortcut = "https://play-lh.googleusercontent.com/F8D0AbyMmiuwsTZYLaPsu_o40XGfQHgvRnq25lVSWupgHPpH3-TQ9soMrWwDJco3siI";
 }elseif ($changepages == 'fake-bill-acb-bank') {
     $title = "Fakebill - Ngân Hàng ACB Bank";
-    $description = "Fakebill - Trang fake bill ACB Bank chuyển khoản miễn phí";
+    $description = "KTech - Trang fake bill ACB Bank chuyển khoản miễn phí";
     $imgreviews = "https://play-lh.googleusercontent.com/knIdLBzE-ngS8Fhim_0FxH56vWhXaQmuLcpMdAcoFY_790hd3t4_XQAlyEWUnYJRyWFP";
     $iconshortcut = "https://play-lh.googleusercontent.com/knIdLBzE-ngS8Fhim_0FxH56vWhXaQmuLcpMdAcoFY_790hd3t4_XQAlyEWUnYJRyWFP";
 }elseif ($changepages == 'fake-bill-mbbank') {
     $title = "Fakebill - Ngân Hàng MBBank";
-    $description = "trongthao - Trang fake bill MBBank chuyển khoản miễn phí";
+    $description = "KTech - Trang fake bill MBBank chuyển khoản miễn phí";
     $imgreviews = "https://files.catbox.moe/fq9mki.png";
     $iconshortcut = "https://play-lh.googleusercontent.com/rBEfIxFhnCIq9p6eMdw-U1RhD5psINWr0_Rbx3Wvy3HMJpRRsnG6efhug5eyPlJc7u0";
 }elseif ($changepages == 'fake-bill-techcombank') {
     $title = "Fakebill - Ngân Hàng Technetbank";
-    $description = "trongthao - Trang fake bill Technetbank chuyển khoản miễn phí";
+    $description = "KTech - Trang fake bill Technetbank chuyển khoản miễn phí";
     $imgreviews = "https://play-lh.googleusercontent.com/Ddr3ZQEu6Vef9JV9ITALeyBEXvYwQWZ3kKJXxrdncD9JR0xlsO--J6zo7uGARfuTBmk";
     $iconshortcut = "https://play-lh.googleusercontent.com/Ddr3ZQEu6Vef9JV9ITALeyBEXvYwQWZ3kKJXxrdncD9JR0xlsO--J6zo7uGARfuTBmk";
 }elseif ($changepages == 'fake-bill-vietcombank') {
@@ -39,13 +39,13 @@ if ($changepages == 'fake-bill-vietinbank') {
     $iconshortcut = "https://play-lh.googleusercontent.com/hRq2DVKkzBXQkyftxr0e2ytl0fS2hEWx3UTe3V652RfJVYWqVRGgBNhmZgqNzJ8PKHE";
 }elseif ($changepages == 'fake-sodu-mbbank') {
     $title = "Fakesodu - Ngân Hàng MB Bank";
-    $description = "Fakesodu - Trang số dư MB Bank miễn phí";
+    $description = "KTech - Trang số dư MB Bank miễn phí";
     $imgreviews = "https://files.catbox.moe/fq9mki.png";
     $iconshortcut = "https://play-lh.googleusercontent.com/rBEfIxFhnCIq9p6eMdw-U1RhD5psINWr0_Rbx3Wvy3HMJpRRsnG6efhug5eyPlJc7u0";
 }
 elseif ($changepages == 'fake-sodu-techcombank') {
     $title = "Fakesodu - Ngân Hàng Techcombank";
-    $description = "Fakesodu - Trang số dư Techcombank miễn phí";
+    $description = "KTech - Trang số dư Techcombank miễn phí";
     $imgreviews = "https://play-lh.googleusercontent.com/Ddr3ZQEu6Vef9JV9ITALeyBEXvYwQWZ3kKJXxrdncD9JR0xlsO--J6zo7uGARfuTBmk";
     $iconshortcut = "https://play-lh.googleusercontent.com/Ddr3ZQEu6Vef9JV9ITALeyBEXvYwQWZ3kKJXxrdncD9JR0xlsO--J6zo7uGARfuTBmk";
 }
