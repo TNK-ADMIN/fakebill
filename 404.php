@@ -25,11 +25,11 @@
 
     <nav>
         <div class="menu">
-            <a href="https://dichvuright.com/" class="website_name">likesub789.site</a>
+            <a href="https://ktech.io.vn/" class="website_name">ktech.io.vn</a>
             <div class="menu_links">
-                <a href="https://baohiemad.com/" class="link">About</a>
-                <a href="https://baohiemad.com/" class="link">Team Work</a>
-                <a href="https://www.facebook.com/vanchungdev" class="link">Contacts</a>
+                <a href="https://truongngockhanh.io.vn/" class="link">About</a>
+                <a href="https://ktech.io.vn/" class="link">Team Work</a>
+                <a href="https://www.facebook.com/tnkhanh2007" class="link">Contacts</a>
             </div>
             <div class="menu_icon">
                 <span class="icon"></span>
