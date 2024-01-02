@@ -7,11 +7,11 @@
           <div class="navbar-brand app-brand demo d-none d-xl-flex py-0 me-4">
             <a href="./" class="app-brand-link gap-2">
               <span class="app-brand-logo demo">
-                <span style="color: var(--bs-primary)">
-                  <img alt="" width="50" height="50" src="https://files.catbox.moe/2yy19g.png"/>
-                </span>
+                <!-- <span style="color: var(--bs-primary)">
+                  <img alt="" width="80" height="60" src="https://blogger.googleusercontent.com/img/a/AVvXsEiHQ__3D_WqFnzEuPgbJ5gShmGILFepseGCxlD1hhadworQyNnXAbtO8ugGxxmd8xvzfxEbAtntzyF_SS_1XUM_voVXDBDPeVwbkm9aPFFefMpYM2wotYhbSKhm9QnzucStBDrDcJihVsMtuD_yYF8Z-bXxYXWljhkWyPuggEy8QhiURqEtZ2bGUFL2tJ0=s214"/>
+                </span> -->
               </span>
-              <span class="app-brand-text demo menu-text fw-bold">Minh Duy </span>
+              <span class="app-brand-text demo menu-text fw-bold">KTech.Io.Vn</span>
             </a>
             <a href="javascript:void(0);" class="layout-menu-toggle menu-link text-large ms-auto d-xl-none">
               <i class="mdi mdi-close align-middle"></i>
@@ -56,7 +56,7 @@
                 </li>
                <li class="nav-item dropdown-style-switcher dropdown me-1 me-xl-0">
                   <a class="nav-link btn btn-text-secondary rounded-pill btn-icon dropdown-toggle hide-arrow waves-effect waves-light" href="javascript:void(0);" data-bs-toggle="dropdown">
-                    <img alt="logo" class="Blob" src="https://i.pinimg.com/564x/f4/f0/92/f4f09248fd82293a709b96ea1e3d7692.jpg">
+                    <img alt="logo" class="Blob" src="https://imgur.com/FbGFMml.jpg">
                   </a>
                   <ul class="dropdown-menu dropdown-menu-end dropdown-styles">
                     <li>
