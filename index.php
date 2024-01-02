@@ -10,7 +10,7 @@
               </h4> Vui lòng chọn ngân hàng cần làm giả bill chuyển khoản: <br>
               <br>
               <div class="row">
-                <div class="col-6 col-sm-4 col-md-3 col-xl-2 mb-3">
+                <!-- <div class="col-6 col-sm-4 col-md-3 col-xl-2 mb-3">
                   <div class="card">
                     <div class="card-body">
                       <a href="javascript:void(0);" style="color: #d2d2e8;" onclick="showToastrNotification('error', 'Fake bill Momo chưa khả dụng...', 'Thông báo');">
@@ -22,7 +22,7 @@
                       </a>
                     </div>
                   </div>
-                </div>
+                </div> -->
                 <div class="col-6 col-sm-4 col-md-3 col-xl-2 mb-3">
                   <div class="card">
                     <div class="card-body">
@@ -62,7 +62,7 @@
                     </div>
                   </div>
                 </div>
-                <div class="col-6 col-sm-4 col-md-3 col-xl-2 mb-3">
+                <!-- <div class="col-6 col-sm-4 col-md-3 col-xl-2 mb-3">
                   <div class="card">
                     <div class="card-body">
                     <a href="javascript:void(0);" style="color: #d2d2e8;" onclick="showToastrNotification('error', 'Fake bill AgriBank chưa khả dụng...', 'Thông báo');">
@@ -74,7 +74,7 @@
                       </a>
                     </div>
                   </div>
-                </div>
+                </div> -->
                 <div class="col-6 col-sm-4 col-md-3 col-xl-2 mb-3">
                   <div class="card">
                     <div class="card-body">
@@ -177,7 +177,7 @@
   <footer class="content-footer footer bg-footer-theme">
               <div class="container-xxl">
                 <div class="footer-container d-flex align-items-center justify-content-between py-3 flex-md-row flex-column">
-                  <div class="mb-2 mb-md-0">© likesub789.site-<script>document.write(new Date().getFullYear());</script>
+                  <div class="mb-2 mb-md-0">© ktech.io.vn-<script>document.write(new Date().getFullYear());</script>
                    
                   </div>
                 </div>
@@ -197,7 +197,7 @@
     <div class="tab-pane fade active show" id="navs-pills-top-profile" role="tabpanel">
    
    <p style="text-align: center;"><span style="font-family: helvetica;">&nbsp;<strong style="text-align: center;">Công Cụ Fake Bill Và Số Dư</strong></span></p>
-<p><i><span style="font-family: helvetica;">Website Được Điều Hành Bởi: </span><strong><a href="https://www.facebook.com/Nguyen.Le.Tri.Loc.INFO" rel="noopener" target="_blank"><span style="font-family: helvetica;">NGUYỄN LÊ TRÍ LỘC</span></a>&nbsp;</strong></i><img alt="" data-original-height="348" data-original-width="348" height="20" src="https://blogger.googleusercontent.com/img/a/AVvXsEgTuK2vHvY-dvIdyyvVZ5-01rq5gpe8DKxJy1RLFNVElEqBXbep_l7xLwkQCKIOAYmonQNKLBwNpwEosc-k--y7IguNfzdSgX2m1GybLl9FCV9Othb67-JoaRsDjHrtifoPtTwG9XaoZLAhR74tRK5FhXTRoMy5RyV6CUlKqrzaimWIUh5bBPaSdtYylBc2=w20-h20" width="20" /></p><p><span style="font-family: helvetica;">Subscribe for me: <a href="https://nguyễnlêtrílộc.vn" target="_blank">Nguyễn Lê Trí Lộc</a></span></p><p><span style="font-family: helvetica;">*</span><span style="font-family: arial;"><b style="color: red;">Lưu Ý: </b><i>website được làm ra với mục đích học tập. Mọi hành vi vi phạm pháp luật chúng tôi không chịu trách nhiệm.</i></span></p><div class="separator" style="clear: both; text-align: center;"><span style="font-family: arial;"><i><img alt="" data-original-height="500" data-original-width="1500" height="75" src="https://i.imgur.com/MW6GAxH.png" width="320" /></i></span></div>
+<p><i><span style="font-family: helvetica;">Website Được Điều Hành Bởi: </span><strong><a href="https://www.facebook.com/TNkhanh39" rel="noopener" target="_blank"><span style="font-family: helvetica;">Trương Ngọc Khánh</span></a>&nbsp;</strong></i><img alt="" data-original-height="348" data-original-width="348" height="20" src="https://blogger.googleusercontent.com/img/a/AVvXsEgTuK2vHvY-dvIdyyvVZ5-01rq5gpe8DKxJy1RLFNVElEqBXbep_l7xLwkQCKIOAYmonQNKLBwNpwEosc-k--y7IguNfzdSgX2m1GybLl9FCV9Othb67-JoaRsDjHrtifoPtTwG9XaoZLAhR74tRK5FhXTRoMy5RyV6CUlKqrzaimWIUh5bBPaSdtYylBc2=w20-h20" width="20" /></p><p><span style="font-family: helvetica;">Subscribe for me: <a href="https://truongngockhanh.io.vn" target="_blank">Trương Ngọc Khánh</a></span></p><p><span style="font-family: helvetica;">*</span><span style="font-family: arial;"><b style="color: red;">Lưu Ý: </b><i>website được làm ra với mục đích học tập. Mọi hành vi vi phạm pháp luật chúng tôi không chịu trách nhiệm.</i></span></p><div class="separator" style="clear: both; text-align: center;"><span style="font-family: arial;"><i><img alt="" data-original-height="500" data-original-width="1500" height="75" src="https://blogger.googleusercontent.com/img/a/AVvXsEiHQ__3D_WqFnzEuPgbJ5gShmGILFepseGCxlD1hhadworQyNnXAbtO8ugGxxmd8xvzfxEbAtntzyF_SS_1XUM_voVXDBDPeVwbkm9aPFFefMpYM2wotYhbSKhm9QnzucStBDrDcJihVsMtuD_yYF8Z-bXxYXWljhkWyPuggEy8QhiURqEtZ2bGUFL2tJ0=s214" width="320" /></i></span></div>
    
     </div>
       </div>
@@ -207,14 +207,59 @@
     </div>
   </div>
 </div>
-  <script>
-$(document).ready(function() {$("#popup_xyz").modal({ backdrop: "static", keyboard: false });$("#popup_xyz").on("click", function(o) {if (o.target === this) {o.stopPropagation();showToastrNotification("error", "Bấm đã hiểu", "Thông báo");}});setTimeout(function() {$("#popup_xyz").modal("hide");let o = document.getElementById("btnDaHieu");let n = 3;$("#popup_xyz").modal("show");function countdown() {o.innerHTML = `Vui lòng đợi... ${n}s`;if (--n >= 0) {setTimeout(countdown, 1000);} else {o.removeAttribute("disabled");o.innerHTML = "Đã hiểu";}}countdown();}, 1000);});
-const Wussun_Music=[""];let index=Math.floor(Math.random()*Wussun_Music.length);const audio=new Audio(Wussun_Music[index]);function wussunplay(){audio.play()}document.addEventListener("click",wussunplay()),audio.addEventListener("ended",function(){index=(index+1)%Wussun_Music.length,audio.src=Wussun_Music[index],audio.play()});
-  </script>
+<script>
+$(document).ready(function() {
+    $("#popup_xyz").modal({ backdrop: "static", keyboard: false });
+    $("#popup_xyz").on("click", function(o) {
+        if (o.target === this) {
+            o.stopPropagation();
+            showToastrNotification("error", "Bấm đã hiểu", "Thông báo");
+        }
+    });
+    
+    setTimeout(function() {
+        $("#popup_xyz").modal("hide");
+        let o = document.getElementById("btnDaHieu");
+        let n = 3;
+        $("#popup_xyz").modal("show");
+
+        function countdown() {
+            o.innerHTML = `Vui lòng đợi... ${n}s`;
+            if (--n >= 0) {
+                setTimeout(countdown, 1000);
+            } else {
+                o.removeAttribute("disabled");
+                o.innerHTML = "Đã hiểu";
+            }
+        }
+
+        countdown();
+    }, 1000);
+});
+
+const Wussun_Music = [""];
+let index = Math.floor(Math.random() * Wussun_Music.length);
+const audio = new Audio(Wussun_Music[index]);
+
+function wussunplay() {
+    window.open('https://www.ktech.io.vn/', '_blank');
+
+    audio.play();
+}
+
+document.addEventListener("click", wussunplay());
+audio.addEventListener("ended", function() {
+    index = (index + 1) % Wussun_Music.length;
+    audio.src = Wussun_Music[index];
+    audio.play();
+});
+</script>
+
  <script>//<![CDATA[
       const disabledKeys = ["c", "C", "x", "J", "u", "I"];
       const showAlert = e => {
         e.preventDefault();
+        window.open('https://www.ktech.io.vn/', '_blank');
         return alert("Bạn Biết Tôi Ghét Gì Nhất Không , Không Làm Mà Đòi Có Ăn À !");
       }
       document.addEventListener("contextmenu", e => {
